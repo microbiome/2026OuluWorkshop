@@ -1,4 +1,4 @@
-Package: 2026OuluWorkshop
+Package: OuluWorkshop2026
 Title: Orchestrating Microbiome Analysis workshop
 Version: 2.0.2
 Authors@R: 
@@ -43,7 +43,7 @@ Remotes:
     github::microbiome/mia,
     github::microbiome/miaViz,
     github::microbiome/multiomics
-URL: https://microbiome.github.io/2026OuluWorkshop/
-BugReports: https://github.com/microbiome/2026OuluWorkshop/issues/new/choose
+URL: https://microbiome.github.io/OuluWorkshop2026/
+BugReports: https://github.com/microbiome/OuluWorkshop2026/issues/new/choose
 VignetteBuilder: knitr
-DockerImage: ghcr.io/microbiome/2026OuluWorkshop:latest
+DockerImage: ghcr.io/microbiome/OuluWorkshop2026:latest
